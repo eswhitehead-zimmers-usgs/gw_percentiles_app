@@ -7,7 +7,7 @@ Created on Wed Nov 29 09:25:18 2023
 
 import streamlit as st
 import pandas as pd
-import plotly as px
+import plotly.express as px
 from dataretrieval import nwis
 
 
