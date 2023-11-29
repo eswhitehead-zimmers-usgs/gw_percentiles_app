@@ -1,4 +1,4 @@
 streamlit==1.28.2
-pandas @ file:///C:/b/abs_cdcgk91igc/croots/recipe/pandas_1663772960432/work
-plotly @ file:///C:/ci/plotly_1658142442431/work
+pandas
+plotly
 dataretrieval==1.0.6
