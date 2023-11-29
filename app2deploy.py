@@ -13,7 +13,7 @@ from dataretrieval import nwis
 
 def load_dat():
 # This function loads in gw data 
-    trends_all_sites = pd.read_csv(r"C:\Users\eswhitehead-zimmers\OneDrive - DOI\Documents\Python_Projects\percentile-trends\scripts\groundwater_percentile\trends_all_sites.csv")
+    trends_all_sites = pd.read_csv('trends_all_sites.csv')
     
     site_nos = trends_all_sites['site_no'].unique()
     
